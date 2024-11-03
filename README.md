@@ -6,18 +6,15 @@ Our journey began with a shared concern about food waste. Living in an apartment
 
 
 ## Features
-* Food Scanning: Use computer vision to identify older food items in your kitchen
- 
-* Recipe Generation: Get recipe suggestions tailored to your available ingredients
- 
+* Food Scanning: Use computer vision to identify older food items in your kitchen 
+* Recipe Generation: Get recipe suggestions tailored to your available ingredients 
 * Waste Reduction: Minimize food waste while discovering new meal ideas
 
 ## Technologies Used
-- OpenCV & YOLO: For object detection and food identification
-  
+- OpenCV & YOLO: For object detection and food identification  
 - Llama: For generating intelligent recipe suggestions
 
-Future Plans
+## Future Plans
 Looking ahead, we plan to enhance Leftover Lens by adding community features, including:
 - A donation option for users to share meals they create.
 - A community space for users to exchange recipe ideas.
