@@ -2,7 +2,7 @@
 Leftover Lens is a computer vision and AI application designed to help users reduce food waste by generating recipes based on older food items. By transforming near-expiry ingredients into delicious meals, we aim to promote sustainability and creative cooking.
 
 ## Inspiration
-Our journey began with a shared concern about food waste. As first-time apartment dwellers responsible for cooking, we often found ourselves with unused ingredients that went bad. We realized that many people face similar challenges, leading to unnecessary waste. This inspired us to create Leftover Lens—a tool that empowers individuals to make the most of their food, ultimately contributing to a more sustainable future.
+Our journey began with a shared concern about food waste. Living in an apartment for the first time and being responsible for cooking, we often found ourselves with unused ingredients that went bad. We realized that many people face similar challenges, leading to unnecessary waste. This inspired us to create Leftover Lens—a tool that allows individuals to make the most of their food, ultimately contributing to a more sustainable future.
 
 
 ## Features
